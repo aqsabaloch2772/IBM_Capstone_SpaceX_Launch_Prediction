@@ -116,8 +116,8 @@ python spacex_dash_app.py
 
 ## ✨ Author
 
-**Saood Babbar**  
-3D Artist • Data Scientist • Creator
+**AQSA ADBULLAH**  
+LINGUIST • Data Scientist • CURIOUS TO LEARN
 
 ---
 
